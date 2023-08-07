@@ -1,0 +1,11 @@
+M:\Simplilearn\mphasis\day21\Assign24\SerializationAndDES\SerializationAndDES\bin\Debug\SerializationAndDES.exe.config
+M:\Simplilearn\mphasis\day21\Assign24\SerializationAndDES\SerializationAndDES\bin\Debug\SerializationAndDES.exe
+M:\Simplilearn\mphasis\day21\Assign24\SerializationAndDES\SerializationAndDES\bin\Debug\SerializationAndDES.pdb
+M:\Simplilearn\mphasis\day21\Assign24\SerializationAndDES\SerializationAndDES\bin\Debug\EmployeeLib.dll
+M:\Simplilearn\mphasis\day21\Assign24\SerializationAndDES\SerializationAndDES\bin\Debug\EmployeeLib.pdb
+M:\Simplilearn\mphasis\day21\Assign24\SerializationAndDES\SerializationAndDES\obj\Debug\SerializationAndDES.csproj.AssemblyReference.cache
+M:\Simplilearn\mphasis\day21\Assign24\SerializationAndDES\SerializationAndDES\obj\Debug\SerializationAndDES.csproj.SuggestedBindingRedirects.cache
+M:\Simplilearn\mphasis\day21\Assign24\SerializationAndDES\SerializationAndDES\obj\Debug\SerializationAndDES.csproj.CoreCompileInputs.cache
+M:\Simplilearn\mphasis\day21\Assign24\SerializationAndDES\SerializationAndDES\obj\Debug\SerializationAndDES.csproj.CopyComplete
+M:\Simplilearn\mphasis\day21\Assign24\SerializationAndDES\SerializationAndDES\obj\Debug\SerializationAndDES.exe
+M:\Simplilearn\mphasis\day21\Assign24\SerializationAndDES\SerializationAndDES\obj\Debug\SerializationAndDES.pdb

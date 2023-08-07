@@ -1,0 +1,6 @@
+M:\Simplilearn\mphasis\day21\Assign24\EmployeeLib\EmployeeLib\bin\Debug\EmployeeLib.dll
+M:\Simplilearn\mphasis\day21\Assign24\EmployeeLib\EmployeeLib\bin\Debug\EmployeeLib.pdb
+M:\Simplilearn\mphasis\day21\Assign24\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.csproj.AssemblyReference.cache
+M:\Simplilearn\mphasis\day21\Assign24\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.csproj.CoreCompileInputs.cache
+M:\Simplilearn\mphasis\day21\Assign24\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.dll
+M:\Simplilearn\mphasis\day21\Assign24\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.pdb
